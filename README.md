@@ -1,5 +1,4 @@
 # Vicky
-pphhhh
-Lil durk
-fshdjd
-
+Sudo apt update
+sudo apt upgrade
+run
