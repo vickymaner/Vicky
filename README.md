@@ -2,3 +2,4 @@
 Sudo apt update
 sudo apt upgrade
 run
+wap add cut
